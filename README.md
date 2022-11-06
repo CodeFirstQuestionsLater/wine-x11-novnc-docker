@@ -21,12 +21,12 @@ on the Docker Hub.
 
 ## Run It
 
-    docker run --rm -p 8080:8080 Masternova/wine-x11-novnc-docker
+    docker run --rm -p 8080:8080 CodeFirstQuestionsLater/wine-x11-novnc-docker
     xdg-open http://localhost:8080
 
 In your web browser you should see the default application, explorer.exe:
 
-![Explorer Screenshot](https://raw.githubusercontent.com/Masternova/wine-x11-novnc-docker/master/screenshot.png)
+![Explorer Screenshot](https://raw.githubusercontent.com/CodeFirstQuestionsLater/wine-x11-novnc-docker/master/screenshot.png)
 
 ## Modifying
 
